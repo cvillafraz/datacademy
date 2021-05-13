@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/cvillafraz/platzi/datacademy/venv/bin/python3",
+    "python.formatting.provider": "autopep8"
+}
